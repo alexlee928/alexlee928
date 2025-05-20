@@ -15,7 +15,7 @@ I'm a full-stack developer based in **Vancouver, Canada** 🇨🇦 with a strong
 - Open to remote collaboration opportunities.
 
 ### 🌱 Past Experience
-- **Xiaomi (Beijing, China)** — Software Engineer  
+- **Xiaomi (Beijing, China)** — Full-stack Software Engineer  
   Built and maintained several core features of MIUI and IoT-connected apps, focusing on performance, stability, and scalability.
 
 ### 📫 Let’s connect!
